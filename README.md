@@ -1,4 +1,3 @@
-# EC504-mini-project-3
 # MongoDB download and usage
 1. Download mongoDB from offcial website https://www.mongodb.com/download-center/community, rename it to " mongo ", save it to path /Users/username/
 2. For my computer, the path is /Users/kobale/mongo
@@ -10,6 +9,6 @@
 
 # MySQL download and usage
 1. Download MySQL from offcial website https://dev.mysql.com/downloads/mysql/
-2. For showing change in MySQL using user interface, please download Navicat(https://www.navicat.com/en/download/navicat-for-mysql) for free trial 
+2. For visualizing changes in MySQL, use UI for MySQL, please download Navicat(https://www.navicat.com/en/download/navicat-for-mysql) for free trial 
 3. For saving pictures, run ' image.upload.js '
 4. For saving texts, run ' text.upload.js ' 
