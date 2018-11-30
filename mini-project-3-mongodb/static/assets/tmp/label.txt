@@ -1,0 +1,7 @@
+Found label: transport for pictures/img002.jpg
+Found label: vehicle for pictures/img002.jpg
+Found label: mode of transport for pictures/img002.jpg
+Found label: bus for pictures/img002.jpg
+Found label: public transport for pictures/img002.jpg
+Found label: street for pictures/img002.jpg
+Found label: car for pictures/img002.jpg
